@@ -120,7 +120,6 @@
     <ClInclude Include="message.hpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="client.cpp" />
     <ClCompile Include="server.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
